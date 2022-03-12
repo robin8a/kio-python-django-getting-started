@@ -3,7 +3,7 @@
 # Windows Install
 # python and pip
 
-- [Install windows 11](https://www.youtube.com/watch?v=bCY4D9n3Pew)
+- [Video: Install windows 11](https://www.youtube.com/watch?v=bCY4D9n3Pew)
 
 ```sh
  python --version                                                                                                                                                                         
@@ -19,12 +19,15 @@
 
 
 
-# Mac
+# Mac Install
 
-- [Install on mac](https://youtu.be/TgA4ObrowRg) 
+- [Video: Install on mac](https://youtu.be/TgA4ObrowRg) 
 
 ```sh
 python3 --version
 pip3 --version
 pip3 install pipenv
 ```
+
+# Tutorials
+- [Phython Django](00_Python_Django/README.md)
